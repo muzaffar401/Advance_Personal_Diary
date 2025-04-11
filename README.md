@@ -111,8 +111,8 @@ classDiagram
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/personal_diary.git
-cd personal_diary
+git clone https://github.com/muzaffar401/Advance_Personal_Diary.git
+cd Advance_Personal_Diary
 ```
 
 2. Create a virtual environment:
