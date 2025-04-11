@@ -2,7 +2,7 @@
 
 A modern, feature-rich personal diary application built with Streamlit, offering a secure and intuitive way to document your thoughts and experiences.
 
-![Diary App Banner](https://raw.githubusercontent.com/streamlit/docs/main/public/images/api/social-preview.jpg)
+![image](https://github.com/user-attachments/assets/436fc4b6-d479-4dea-a5db-a0249bf3bc69)
 
 ## ✨ Features
 
