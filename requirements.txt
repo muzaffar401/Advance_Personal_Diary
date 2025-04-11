@@ -1,0 +1,14 @@
+streamlit==1.32.0
+pandas==2.1.4
+Pillow==10.2.0
+textblob==0.17.1
+matplotlib==3.8.2
+plotly==5.18.0
+wordcloud==1.9.3
+streamlit-aggrid==0.3.4
+reportlab==4.0.8
+fpdf2==2.7.8
+markdown==3.5.2
+beautifulsoup4==4.12.3
+html2text==2024.2.26
+requests==2.31.0
